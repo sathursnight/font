@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'uidletter';
+    src: url('sathursnight.github.io/font/uid-letter.ttf') format('truetype');
+}
