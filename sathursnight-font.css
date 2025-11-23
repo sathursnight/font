@@ -14,3 +14,19 @@
     font-family: "TorsilpKhongYang";
     src: url("https://sathursnight.github.io/font/TorsilpKhongYang.ttf") format("truetype");
 }
+@font-face {
+    font-family: "TorsilpRajun2024";
+    src: url("https://sathursnight.github.io/font/TorsilpRajun2024.ttf") format("truetype");
+}
+@font-face {
+    font-family: "TorsilpRajun2024ligth";
+    src: url("https://sathursnight.github.io/font/TorsilpRajun2024ligth.ttf") format("truetype");
+}
+@font-face {
+    font-family: "TorsilpChillChill";
+    src: url("https://sathursnight.github.io/font/TorsilpChillChill.ttf") format("truetype");
+}
+@font-face {
+    font-family: "torsilptalaymohk";
+    src: url("https://sathursnight.github.io/font/torsilptalaymohk.ttf") format("truetype");
+}
